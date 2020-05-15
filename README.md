@@ -1,2 +1,2 @@
 # udacity-project
-All cloud Project
+All cloud Project with Git Rules
